@@ -1,0 +1,3 @@
+import{c as s}from"./index-Byx82XNF.js";import"./index-B-o1Wr-g.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./index-DjSHlhOm.js";import"./jsx-runtime-j_jdvEMj.js";import"./index-lcPQr1BL.js";const d={title:"Data display/Toast",component:s,args:{children:"Description Toast",title:"Toast",onClose:()=>{}},parameters:{layout:"centered"},tags:["autodocs"]},r={args:{}};var t,a,o;r.parameters={...r.parameters,docs:{...(t=r.parameters)==null?void 0:t.docs,source:{originalSource:`{
+  args: {}
+}`,...(o=(a=r.parameters)==null?void 0:a.docs)==null?void 0:o.source}}};const l=["Primary"];export{r as Primary,l as __namedExportsOrder,d as default};

@@ -1,0 +1,3 @@
+import{d as e}from"./index-Byx82XNF.js";import"./index-B-o1Wr-g.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./index-DjSHlhOm.js";import"./jsx-runtime-j_jdvEMj.js";import"./index-lcPQr1BL.js";const n={title:"Data display/Tooltip",component:e,args:{children:"Tooltip"},parameters:{layout:"centered"},tags:["autodocs"]},r={args:{}};var o,t,a;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  args: {}
+}`,...(a=(t=r.parameters)==null?void 0:t.docs)==null?void 0:a.source}}};const l=["Primary"];export{r as Primary,l as __namedExportsOrder,n as default};
