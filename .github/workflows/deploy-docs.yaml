@@ -3,7 +3,7 @@ name: Deploy docs
 on:
   push:
     branches:
-      - main
+      - patch-1
 
 jobs:
   build-and-deploy:
@@ -22,9 +22,8 @@ jobs:
       - run: npm ci
 
       - run: npm run build
-        # env:
-        #   TURBO_TOKEN: ${{ secrets.TURBO_TOKEN }}
-        #   TURBO_TEAM: ${{ secrets.TURBO_TEAM }}
+        env:
+          teste: test
 
       - name: Deploy storybook
         working-directory: ./packages/docs
